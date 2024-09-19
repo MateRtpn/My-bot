@@ -1,5 +1,4 @@
 # my bot
-================
 
 ## ทำอะไรได้บ้าง
 -------------
@@ -19,10 +18,13 @@
 
 สร้างไฟล์ `.env` ด้วยตัวแปรต่อไปนี้:
 ```bash
-CHANNEL_ID=<รหัสช่องที่บอทจะส่งข้อความ>
-ADMIN_ROLE=<รหัสบทบาทที่จำเป็นสำหรับใช้คำสั่งผู้ดูแล>
-OWNER_ROLE=<รหัสบทบาทที่จำเป็นสำหรับปิดบอท>
-DISCORD_TOKEN=<รหัสโทเค็นของบอท>
+   DISCORD_TOKEN= discord bot token
+
+   CHANNEL_ID= channel id
+
+   ADMIN_ROLE= admin role id
+
+   OWNER_ROLE= owner role id
 ```
 
 ### 2. รันคำสั่ง 
