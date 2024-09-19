@@ -1,4 +1,4 @@
-# my bot
+# My bot
 
 ## ทำอะไรได้บ้าง
 -------------
@@ -16,7 +16,7 @@
 
 ### 1. สร้างไฟล์ .env
 
-สร้างไฟล์ `.env` ด้วยตัวแปรต่อไปนี้:
+สร้างไฟล์ `.env` เเละใส่ไฟลืต่อไปนี้:
 ```bash
    DISCORD_TOKEN= discord bot token
 
@@ -25,12 +25,6 @@
    ADMIN_ROLE= admin role id
 
    OWNER_ROLE= owner role id
-```
-
-### 2. รันคำสั่ง 
-
-```bash
-pip install -r requirements.txt
 ```
 
 ### 2. รันบอท
